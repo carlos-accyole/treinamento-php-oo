@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d08f42a-28a9-46fc-b8bc-01cc25f47221" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1eTGgBmlzzNzflh8DQa6hEyCR2x" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projeto/src/Modelo/Funcionario" />
+      <recent name="$PROJECT_DIR$/projeto/src/Modelo/Conta" />
+      <recent name="$PROJECT_DIR$/projeto/src/Modelo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.enderecos.php">
+    <configuration name="autenticacao.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/projeto/autenticacao.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="bonificacoes.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/projeto/bonificacoes.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="enderecos.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/projeto/enderecos.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/scratch.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="teste-saque.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/projeto/teste-saque.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.enderecos.php" />
+        <item itemvalue="PHP Script.scratch.php" />
+        <item itemvalue="PHP Script.autenticacao.php" />
+        <item itemvalue="PHP Script.bonificacoes.php" />
+        <item itemvalue="PHP Script.teste-saque.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d08f42a-28a9-46fc-b8bc-01cc25f47221" name="Default Changelist" comment="" />
+      <created>1594338277370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594338277370</updated>
+      <workItem from="1594338278508" duration="7049000" />
+      <workItem from="1594378661637" duration="11000" />
+      <workItem from="1594430041943" duration="6295000" />
+      <workItem from="1594479732789" duration="6368000" />
+      <workItem from="1594519920445" duration="10462000" />
+      <workItem from="1594637657110" duration="13000" />
+      <workItem from="1594688915016" duration="5457000" />
+      <workItem from="1594724081690" duration="144000" />
+      <workItem from="1594858988599" duration="2065000" />
+      <workItem from="1594861071217" duration="5880000" />
+      <workItem from="1594896915409" duration="23000" />
+      <workItem from="1594945241518" duration="6835000" />
+      <workItem from="1594983779364" duration="610000" />
+      <workItem from="1595037790997" duration="2191000" />
+      <workItem from="1595242690315" duration="282000" />
+      <workItem from="1595378893874" duration="6649000" />
+      <workItem from="1595385773665" duration="31000" />
+      <workItem from="1595415958926" duration="62000" />
+      <workItem from="1595472152668" duration="2894000" />
+      <workItem from="1595502059044" duration="11000" />
+      <workItem from="1595552872015" duration="4676000" />
+      <workItem from="1595589115501" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
